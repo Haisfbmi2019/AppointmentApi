@@ -8,7 +8,7 @@
 
 1. Install PostgreSQL
 2. Configure datasource in application.yml.
-3. Enter your username and password in the file application.properties .
+3. Enter your mail and PostgreSQL username/password in the file application.properties .
 4. Enter your url in the file SimpleCORSFilter and SpringSecurityConfig .
 5. Run aplication.
 6. The backend server is running on localhost:8000.
