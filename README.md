@@ -1,9 +1,10 @@
 # AppointmentApi
 
-## How to Run
-Start the backend server.
+## Api documentation
+- <a target="_blank" href="http://localhost:8000/swagger-ui.html">Swagger</a>
 
-## Backend
+
+## How to run
 
 1. Install PostgreSQL
 2. Configure datasource in application.yml.
